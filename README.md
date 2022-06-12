@@ -1,4 +1,4 @@
-# app-name
+# quiz-app
 
 ## Project setup
 ```
